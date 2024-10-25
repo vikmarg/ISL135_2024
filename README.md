@@ -6,7 +6,7 @@ importante explicacion del uso y aplicacion de Git, realizaremos algunas aplicac
 uso del Git utilizando el OS LinuxMint.
 
 Integrantes:
-Hernandes Aguillon, Bryan Arnoldo     HA23040    
-Margueiz Tadeo, Victor Manuel         MT06017
-Vasquez Lara, Jose Salvador           VL23003
-Ramirez Linares, Irvin Adonay         RL22020
+Hernandes Aguillon Bryan Arnoldo     HA23040,     
+Margueiz Tadeo Victor Manuel         MT06017, 
+Vasquez Lara Jose Salvador           VL23003, 
+Ramirez Linares Irvin Adonay         RL22020
